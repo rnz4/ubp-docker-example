@@ -11,3 +11,6 @@
 
 # Nota:
 En los comentarios del file docker-compose.yml estan los puntos a resolver
+Documentacion:
+https://medium.com/@chrischuck35/how-to-create-a-mysql-instance-with-docker-compose-1598f3cc1bee
+https://github.com/fuadajip/dockercompose-mysql-phpmyadmin/blob/master/docker-compose.yml
