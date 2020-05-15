@@ -9,5 +9,6 @@ COPY app.py /app
 
 EXPOSE 5000
 
+CMD apt-get install nano
 CMD python app.py
 
